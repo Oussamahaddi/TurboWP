@@ -1,10 +1,10 @@
-# myEdu Center
+# Turbo Center
 
-Education Center
+Turbo Center
 
 ## Project Description
 
-Welcome to myEdu Center - your go-to hub for personalized education! Our center is designed to cater to all levels of learners, and our website makes it easy for you to connect with us and explore our various training programs. Whether you're a student, a professional, or simply someone looking to expand your knowledge, our center has something to offer you. Browse through our courses and get in touch with us to find the perfect fit for your learning needs. Join our community today and take the first step towards achieving your educational goals!
+Welcome to Turbo Center - your go-to hub for personalized education! Our center is designed to cater to all levels of learners, and our website makes it easy for you to connect with us and explore our various training programs. Whether you're a student, a professional, or simply someone looking to expand your knowledge, our center has something to offer you. Browse through our courses and get in touch with us to find the perfect fit for your learning needs. Join our community today and take the first step towards achieving your educational goals!
 ## Themes
 
 ## Installation
